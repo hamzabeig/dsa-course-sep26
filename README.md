@@ -2,7 +2,7 @@
 
 **[Course Recordings]()**
 
-**Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/) , Arslan Saeed, Zubair Sajjad, Moneeb Hussain, Sachal Khalid
+**Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/) , [Arslan Saeed](https://www.linkedin.com/in/arslan-saeed-361b692ba/), [Zubair Sajjad](https://www.linkedin.com/in/zubairsajjad24/), [Moneeb Hussain](https://www.linkedin.com/in/moneebhussain112/), [Sachal Khalid](https://www.linkedin.com/in/sachalkhalid/)
 
 **Course Duration:** *Monday 31 August 2026 — Friday, 09 October 2026*  
 
