@@ -4,6 +4,6 @@
 
 ## 🗓️ Week 1
 
-| **Lecture** | **DSA Concept**                                | **Recording Date**                           | **Recording Link**                           | **Questions** | **Solution Code** | **Trainer** |
-|------------|-------------------------------------------------|-------------|-------|-----------------------------------|------------------------|-------------------------------------------|
-| Day 1 | `Time Complexity` `Space Complexity`                 |     31st Aug        | [Watch]()         |   NA  | NA | Hamza Baig
+| **Lecture** | **DSA Concept**                                | **Recording Date**                           | **Recording Link**                           | **Solution Code** | **Trainer** |
+|------------|-------------------------------------------------|------------|-----------------------------------|------------------------|-------------------------------------------|
+| Day 1 | `Time Complexity` `Space Complexity`                 |     31st Aug        | [Please wait]()       | NA | Hamza Baig
