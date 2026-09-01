@@ -8,6 +8,7 @@
 |------------|-------------------------------------------------|------------|-----------------------------------|------------------------|-------------------------------------------|
 | Day 1 | `Time Complexity` `Space Complexity`                 |     31 Aug        | [Watch](https://www.youtube.com/live/ZciVjGuOlbw)       | NA | Hamza Baig
 | Day 2 | `Linear Data Structures` `Recursion Time Analysis`                 |     1 Sep        | [Watch](https://youtube.com/live/aTsqcvktimI)       | NA | Hamza Baig
+| Day 3 | `Group Anagram`                 |     2 Sep        | [Watch](https://www.youtube.com/live/YdD9NNiZhdM)       | NA | Arslan Saeed
 
 
 
