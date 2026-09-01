@@ -4,11 +4,11 @@
 
 ## 🗓️ Week 1
 
-| **Lecture** | **DSA Concept**                                | **Recording Date**                           | **Recording Link**                           | **Solution Code** | **Trainer** |
-|------------|-------------------------------------------------|------------|-----------------------------------|------------------------|-------------------------------------------|
-| Day 1 | `Time Complexity` `Space Complexity`                 |     31 Aug        | [Watch](https://www.youtube.com/live/ZciVjGuOlbw)       | NA | Hamza Baig
-| Day 2 | `Linear Data Structures` `Recursion Time Analysis`                 |     1 Sep        | [Watch](https://youtube.com/live/aTsqcvktimI)       | NA | Hamza Baig
-| Day 3 | `Group Anagram`                 |     2 Sep        | [Watch](https://www.youtube.com/live/YdD9NNiZhdM)       | NA | Arslan Saeed
+| **Lecture** | **DSA Concept**                                | **Recording Date**                           | **Recording Link**                            | **Trainer** |
+|------------|-------------------------------------------------|------------|-----------------------------------|-------------------------------------------|
+| Day 1 | `Time Complexity` `Space Complexity`                 |     31 Aug        | [Watch](https://www.youtube.com/live/ZciVjGuOlbw)     | Hamza Baig
+| Day 2 | `Linear Data Structures` `Recursion Time Analysis`                 |     1 Sep        | [Watch](https://youtube.com/live/aTsqcvktimI)       | Hamza Baig
+| Day 3 | `Group Anagram`                 |     2 Sep        | [Watch](https://www.youtube.com/live/YdD9NNiZhdM)       | Arslan Saeed
 
 
 
