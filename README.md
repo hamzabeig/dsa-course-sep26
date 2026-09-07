@@ -1,4 +1,4 @@
-# 📚 Data Structures and Algorithms : From concepts to code
+# 📚 Data Structures and Algorithms with NeetCode 150
 
 **[Course Recordings]()**
 
@@ -6,7 +6,7 @@
 
 **Course Duration:** *Monday 31 August 2026 — Friday, 09 October 2026*  
 
-**Sessions:** *12AM PKT* (Sunday Night - Thursday Night), 1 hour/day  
+**Sessions:** *4PM PKT* 
 
 
 # 🚀 6-Week DSA Problem Solving Bootcamp
