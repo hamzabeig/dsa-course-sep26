@@ -12,6 +12,14 @@
 | Day 4 | `Longest Consecutive Sequence`                 |     3 Sep        | [Watch on YouTube](https://youtu.be/Y5UUYaIYdz4)       | Sachal Khalid
 | Day 5 | `Trapping Rain Water`                 |     4 Sep        | [Watch on YouTube](https://youtu.be/MKgaLEABBjc)       | Hamza Baig
 
+---
+
+## 🗓️ Week 2
+
+| **Lecture** | **DSA Concept**                                | **Recording Date**                           | **Recording Link**                            | **Trainer** |
+|------------|-------------------------------------------------|------------|-----------------------------------|-------------------------------------------|
+| Day 1 | `Sliding Window` `Buy and Sell Stock` `Logest String without Repeating Characters`                 |     07 Sep        | [Watch on YouTube](
+https://youtube.com/live/lO6VdPZ1DuE)     | Hamza Baig
 
 
 > **Note:** if recording sheet is not updated, you can find recording on this link: https://www.youtube.com/@iCodeGuru0/streams
