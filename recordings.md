@@ -18,7 +18,7 @@
 
 | **Lecture** | **DSA Concept**                                | **Recording Date**                           | **Recording Link**                            | **Trainer** |
 |------------|-------------------------------------------------|------------|-----------------------------------|-------------------------------------------|
-| Day 1 | `Sliding Window` `Buy and Sell Stock` `Logest String without Repeating Characters`                 |     07 Sep        | [Watch on YouTube](https://youtu.be/lbsxzmz1L4Q)     | Hamza Baig
+| Day 1 | `Sliding Window` `Buy and Sell Stock` `Longest String without Repeating Characters`                 |     07 Sep        | [Watch on YouTube](https://youtu.be/lbsxzmz1L4Q)     | Hamza Baig
 | Day 2 | `Longest Repeating Character Replacement`                 |     08 Sep        | [Watch on YouTube](https://www.youtube.com/live/8iWRjOuv9Jc)     | Hamza Baig
 
 
