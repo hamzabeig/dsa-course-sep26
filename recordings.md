@@ -19,7 +19,10 @@
 | **Lecture** | **DSA Concept** | **Recording Date** | **Recording Link** | **Trainer** |
 |------------|------------|------------|------------|------------|
 | Day 1 | `Sliding Window` `Buy and Sell Stock` `Longest String without Repeating Characters` | 07 Sep | [Watch on YouTube](https://youtu.be/lbsxzmz1L4Q) | Hamza Baig
-| Day 2 | `Longest Repeating Character Replacement` | 08 Sep | [Watch on YouTube](https://www.youtube.com/live/8iWRjOuv9Jc) | Hamza Baig
+| Day 2 | `Longest Repeating Character Replacement` | 08 Sep | [Watch on YouTube](https://youtu.be/57WG77Fib8w) | Hamza Baig
+| Day 3 | `Min Stack` | 09 Sep | [Watch on YouTube](https://youtu.be/NmINuwKVzw0) | Sachal Khalid
+| Day 4 | `Reverse Polish Notation` | 10 Sep | [Watch on YouTube](https://youtu.be/QNZcTBB8pek) | Hamza Baig
+| Day 5 | `Largest Rectangle in Histogram` | 11 Sep | [Watch on YouTube](https://www.youtube.com/live/RoDDw39hLIY) | Hamza Baig
 
 
 ---
