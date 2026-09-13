@@ -22,7 +22,7 @@
 | Day 2 | `Longest Repeating Character Replacement` | 08 Sep | [Watch on YouTube](https://youtu.be/57WG77Fib8w) | Hamza Baig
 | Day 3 | `Min Stack` | 09 Sep | [Watch on YouTube](https://youtu.be/NmINuwKVzw0) | Sachal Khalid
 | Day 4 | `Reverse Polish Notation` | 10 Sep | [Watch on YouTube](https://youtu.be/QNZcTBB8pek) | Hamza Baig
-| Day 5 | `Largest Rectangle in Histogram` | 11 Sep | [Watch on YouTube](https://www.youtube.com/live/RoDDw39hLIY) | Hamza Baig
+| Day 5 | `Largest Rectangle in Histogram` | 11 Sep | [Watch on YouTube](https://youtu.be/I7Gv51U-xpc) | Hamza Baig
 
 
 ---
