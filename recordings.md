@@ -26,5 +26,12 @@
 
 
 ---
+## 🗓️ Week 3
+
+| **Lecture** | **DSA Concept** | **Recording Date** | **Recording Link** | **Trainer** |
+|------------|------------|------------|------------|------------|
+| Day 1 | `Binary Search` | 14 Sep | [Watch on YouTube](https://youtube.com/live/fwyjHOr1WZY) | Hamza Baig
+
+---
 
 > **Note:** if recording sheet is not updated, you can find recording on this link: https://www.youtube.com/@iCodeGuru0/streams
