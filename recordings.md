@@ -38,4 +38,4 @@
 
 ---
 
-> **Note:** If the recording sheet has not been updated yet, you can find the latest class recordings on the [iCodeGuru Streams](https://www.youtube.com/@iCodeGuru0/streams) page.
+> **Note:** Course will pause on 18 Sep and will resume once Stanford's PAI and CIPX courses are over.
