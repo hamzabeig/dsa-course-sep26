@@ -30,7 +30,11 @@
 
 | Day | DSA Concept     |  Date  |                    Recording                    | Trainer    |
 | :-: | --------------- | :----: | :---------------------------------------------: | ---------- |
-|  1  | `Binary Search` | 14 Sep | [YouTube](https://youtube.com/live/fwyjHOr1WZY) | Hamza Baig |
+|  1  | `Binary Search` | 14 Sep | [YouTube](https://youtube.com/live/fwyjHOr1WZY) | Sachal Khalid |
+|  2  | `` | 15 Sep | [YouTube]() | Sachal Khalid |
+|  3  | `` | 16 Sep | [YouTube]() | Hamza Baig |
+|  4  | `` | 17 Sep | [YouTube]() | Hamza Baig |
+|  5  | `` | 18 Sep | [YouTube]() | Hamza Baig |
 
 ---
 
