@@ -32,8 +32,8 @@
 | :-: | --------------- | :----: | :---------------------------------------------: | ---------- |
 |  1  | `Binary Search` | 14 Sep | [YouTube](https://youtube.com/live/fwyjHOr1WZY) | Sachal Khalid |
 |  2  | `Find Minimum In Rotated Sorted Array` | 15 Sep | [YouTube](https://www.youtube.com/watch?v=CJYcEl4lvLY) | Sachal Khalid |
-|  3  | `` | 16 Sep | [YouTube]() | Hamza Baig |
-|  4  | `` | 17 Sep | [YouTube]() | Hamza Baig |
+|  3  | `Median in Sorted Arrays` | 16 Sep | [YouTube](https://youtube.com/live/1MWlI5-wiLk?feature=share) | Hamza Baig |
+|  4  | `Reverse Linked List` | 17 Sep | [YouTube](https://youtube.com/live/t-HaufFRiOY?feature=share) | Sachal Khalid |
 |  5  | `` | 18 Sep | [YouTube]() | Hamza Baig |
 
 ---
