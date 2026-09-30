@@ -30,11 +30,11 @@
 
 | Day | DSA Concept     |  Date  |                    Recording                    | Trainer    |
 | :-: | --------------- | :----: | :---------------------------------------------: | ---------- |
-|  1  | `Binary Search` | 14 Sep | [YouTube](https://youtube.com/live/fwyjHOr1WZY) | Sachal Khalid |
-|  2  | `Find Minimum In Rotated Sorted Array` | 15 Sep | [YouTube](https://www.youtube.com/watch?v=CJYcEl4lvLY) | Sachal Khalid |
-|  3  | `Median in Sorted Arrays` | 16 Sep | [YouTube](https://youtube.com/live/1MWlI5-wiLk?feature=share) | Hamza Baig |
-|  4  | `Reverse Linked List` | 17 Sep | [YouTube](https://youtube.com/live/t-HaufFRiOY?feature=share) | Sachal Khalid |
-|  5  | `Linked List Algorithms` | 18 Sep | [YouTube](https://www.youtube.com/live/uvfvtMMLddM?si=D7n9mZqB2CNelvCo) | Hamza Baig |
+|  1  | `Binary Search` | 14 Sep | [YouTube](https://youtu.be/KtaXIDnbfiY) | Sachal Khalid |
+|  2  | `Find Minimum In Rotated Sorted Array` | 15 Sep | [YouTube](https://youtu.be/t4sCM-98F2Y) | Sachal Khalid |
+|  3  | `Median in Sorted Arrays` | 16 Sep | [YouTube](https://youtu.be/UBRXAv0aqXo) | Hamza Baig |
+|  4  | `Reverse Linked List` | 17 Sep | [YouTube](https://youtu.be/3Apx97aTyJc) | Sachal Khalid |
+|  5  | `Linked List Algorithms` | 18 Sep | [YouTube](https://youtu.be/9GGiLb1icGQ) | Hamza Baig |
 
 ---
 
